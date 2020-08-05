@@ -1,3 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://<User Name>:<Password>@stackoverflows-sl.pws8j.mongodb.net/<dbname>?retryWrites=true&w=majority"
-}
